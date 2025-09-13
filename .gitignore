@@ -1,0 +1,8 @@
+# Dependências do Node
+node_modules/
+
+# Logs e arquivos de debug do Cypress
+cypress/logs/
+cypress/screenshots/
+cypress/videos/
+cypress.run.json
